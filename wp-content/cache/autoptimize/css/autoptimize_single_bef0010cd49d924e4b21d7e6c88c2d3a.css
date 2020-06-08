@@ -1,0 +1,26 @@
+.elementor-77 .elementor-element.elementor-element-8007ccd>.elementor-container {min-height: 75vh;}
+.elementor-77 .elementor-element.elementor-element-8007ccd>.elementor-container:after {content: "";min-height: inherit;}
+.elementor-77 .elementor-element.elementor-element-8007ccd {margin-top: 0;margin-bottom: 50px;}
+.elementor-bc-flex-widget .elementor-77 .elementor-element.elementor-element-f3af60d.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-77 .elementor-element.elementor-element-f3af60d.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-77 .elementor-element.elementor-element-f3af60d.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {justify-content: center;}
+.elementor-77 .elementor-element.elementor-element-f3af60d>.elementor-element-populated {margin: 11%;}
+.elementor-77 .elementor-element.elementor-element-5488764 .elementor-heading-title {font-size: 4em;}
+.elementor-bc-flex-widget .elementor-77 .elementor-element.elementor-element-dc03c0f.elementor-column .elementor-column-wrap {align-items: flex-end;}
+.elementor-77 .elementor-element.elementor-element-dc03c0f.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {align-content: flex-end;align-items: flex-end;}
+.elementor-77 .elementor-element.elementor-element-dc03c0f>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0;}
+.elementor-77 .elementor-element.elementor-element-dc03c0f:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap, .elementor-77 .elementor-element.elementor-element-dc03c0f>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {background-color: #f00000;}
+.elementor-77 .elementor-element.elementor-element-dc03c0f>.elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin: 0;padding: 0;}
+.elementor-77 .elementor-element.elementor-element-dc03c0f>.elementor-element-populated>.elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-77 .elementor-element.elementor-element-9c591e2 {text-align: left;}
+.elementor-77 .elementor-element.elementor-element-9c591e2>.elementor-widget-container {margin: 0 0 0 -15%;}
+.elementor-77 .elementor-element.elementor-element-4a90f9e:not(.elementor-motion-effects-element-type-background), .elementor-77 .elementor-element.elementor-element-4a90f9e>.elementor-motion-effects-container>.elementor-motion-effects-layer {background-image: url("https://dev-urc-ar-2019.sites.techops.ph/wp-content/uploads/piattos-choco-knots-c2.png");background-position: bottom right;background-repeat: no-repeat;}
+.elementor-77 .elementor-element.elementor-element-4a90f9e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-77 .elementor-element.elementor-element-4a90f9e>.elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+body.elementor-page-77 h1.entry-title, .elementor-page-title {display: none;}
+@media (max-width:1024px) {.elementor-77 .elementor-element.elementor-element-8007ccd>.elementor-container {min-height: 50vh;}
+	.elementor-77 .elementor-element.elementor-element-8007ccd>.elementor-container:after {content: "";min-height: inherit;}
+	.elementor-77 .elementor-element.elementor-element-4a90f9e {padding: 0 0 10%;}}
+@media (max-width:767px) {.elementor-77 .elementor-element.elementor-element-4a90f9e {padding: 0 0 100%;}}
+@media (min-width:768px) {.elementor-77 .elementor-element.elementor-element-f3af60d {width: 49.906%;}
+	.elementor-77 .elementor-element.elementor-element-dc03c0f {width: 50.094%;}}
